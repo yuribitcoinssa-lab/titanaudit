@@ -19,12 +19,12 @@ Baixe o pacote (trial sem licença)
 
 Rode titan_audit.exe --machine-id
 
-Envie o MID no formulário: (seu link do Forms)
+Envie o MID no formulário: https://forms.gle/uX93HX2KkQFeG9Ez6
 
 Receba o patch license.txt e aplique na pasta indicada
 
 Site / Compra
 
-Landing: (seu link)
+Landing: https://sites.google.com/view/titanauditoria/titanaudit-v1-5
 
 Contato: titanaudit.vendas@gmail.com
